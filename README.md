@@ -20,8 +20,8 @@ In these labs, I frequently utilize:
 
 ### [/tryhackme](./tryhackme)
 Detailed walkthroughs for rooms on TryHackMe.
-*   **Jr. Penetration Tester Path:** Complete documentation of the learning path.
-*   **Room Write-ups:** Detailed logs for machines like *PyRat*, *The Game*, and *Hammer*.
+*   **Jr. Penetration Tester Path:** Complete documentation of the learning path black box rooms.
+*   **Room Write-ups:** Detailed logs for medium+ machines like *Hammer*.
 
 ### [/ctf-events](./ctf-events)
 Write-ups for time-limited competitive CTF events.
@@ -31,12 +31,10 @@ Personal "cheat sheets" and workflows for common attack vectors (e.g., SQLi, Bru
 
 ---
 
-## 🚀 Featured Write-ups
+## 🚀 Featured Write-up
 | Room / Machine | Platform | Key Learning |
 | :--- | :--- | :--- |
-| **PyRat** | TryHackMe | Python-based reverse shells and script analysis. |
 | **Hammer** | TryHackMe | Web application fuzzing and bypassing rate limits. |
-| **The Game** | TryHackMe | Network enumeration and privilege escalation. |
 
 ---
 
