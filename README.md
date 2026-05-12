@@ -46,5 +46,5 @@ These write-ups are for **educational and ethical purposes only**. All labs and 
 ---
 
 ## 🔗 Connect with Me
-*   **TryHackMe Profile:** [Link to your Profile]
-*   **LinkedIn:** [Link to your LinkedIn]
+*   **TryHackMe Profile:** https://tryhackme.com/p/brianitua
+*   **LinkedIn:** https://www.linkedin.com/in/brian-itua-37349a375/
